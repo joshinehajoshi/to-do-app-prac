@@ -1,8 +1,9 @@
 import React from 'react';
+import './App.css'
 
 function App() {
-  return <div>
-      <h1>hi</h1>
+  return <div className="todo-app">
+      <h1>To Do App</h1>
   </div>;
 }
 
